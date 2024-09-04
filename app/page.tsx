@@ -20,7 +20,7 @@ export default function Home() {
           ✋ Hi there!
         </h2>
         <h1 className="text-5xl p-8 font-bold">
-          Sixtus&apos;s Portfolio is Under Maintenance
+          Sixtus&apos;s Portfolio is Under <br /> Maintenance
         </h1>
 
         <p className="text-lg max-w-2xl leading-relaxed">
